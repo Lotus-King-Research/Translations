@@ -2,7 +2,7 @@
 host = https://www.transifex.com
 
 [daily-monlams.001-po]
-file_filter = sem/<lang>
+file_filter = sem/<lang>/
 minimum_perc = 0
 source_file = sem/bo/001.po
 source_lang = bo
