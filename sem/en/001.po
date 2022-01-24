@@ -20,7 +20,7 @@ msgctxt "1e96204a0e5a46f6828e7d849d94edd4"
 msgid ""
 "ཐར་པ་ དང་ ཐམས་ཅད་ མཁྱེན་པ␣འི་ བར་ དུ་ གཅོད་པ␣ར་ བྱེད་པ་ ཐམས་ཅད་ ཀྱིས་ གཙོ་ "
 "བྱས་པ␣འི །"
-msgstr "All that is impeding the path to wisdom of liberation."
+msgstr "All that is impeding the path to the wisdom of liberation."
 
 msgctxt "75fe5b3abf6247e991b52adf0e6e1f50"
 msgid ""
