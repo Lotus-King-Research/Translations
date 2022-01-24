@@ -1,0 +1,28 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "ebf20aa4ca6847cd9c8b5ffdf0a0475a"
+msgid "བདག་ ལ་ སྡང་བ␣ར་ བྱེད་པ␣འི་ དགྲ །  གནོད་པ␣ར་ བྱེད་པ␣འི་ བགེགས །"
+msgstr ""
+
+msgctxt "1e96204a0e5a46f6828e7d849d94edd4"
+msgid ""
+"ཐར་པ་ དང་ ཐམས་ཅད་ མཁྱེན་པ␣འི་ བར་ དུ་ གཅོད་པ␣ར་ བྱེད་པ་ ཐམས་ཅད་ ཀྱིས་ གཙོ་ "
+"བྱས་པ␣འི །"
+msgstr ""
+
+msgctxt "75fe5b3abf6247e991b52adf0e6e1f50"
+msgid ""
+"མ་ ནམ་མཁའ་ དང་ མཉམ་པ␣འི་ སེམས་ཅན་ ཐམས་ཅད་ བདེ་བ་ དང་ ལྡན །  སྡུག་བསྔལ་ དང་ "
+"བྲལ །"
+msgstr ""
+
+msgctxt "93aa7766fcb74ac098337cda9067c2fe"
+msgid ""
+"མྱུར་ དུ་ བླ་ ན་ མེད་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ བྱང་ཆུབ་ རིན་པོ་ཆེ་ ཐོབ་པ␣ར་ "
+"བྱ །"
+msgstr ""
